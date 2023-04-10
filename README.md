@@ -31,3 +31,6 @@ universitetistvis gamosadegi informacia da sxva mravali
 ხოლო ნამრავლი დააბრუნეთ main()-ში და დაბეჭდეთ;
 
 ###### ამოხსნა -> **5.cpp**
+
+## davaleba: daalaget 3, 6, 1, 2, 9, 5 masivi zrdadobis mixedvit
+> amoxsna -> ricxvebis dalagebis algoritmi.cpp
