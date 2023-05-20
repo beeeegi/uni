@@ -39,3 +39,7 @@ universitetistvis gamosadegi informacia da sxva mravali
 > sheqmenit martkutxedis klasi velebit sigrdze da signage, daweret klasis funqcia(metodi) am martkutxedis perimetris gamosaangarishebeli, es funqcia unda eweros klasis garet; sheqmenit ori obieqti martkutxedis da gamotvalet orives perimetri.
 
 ###### ამოხსნა -> **davalebai.cpp**
+
+## konstruqtori klasebshi.cpp
+> funqcia romelic klass rogorc ki obieqts mivanichebt egreve iwyebs gamodzaxebas da shesabamisad argumentebic mandve gadaecema, romelsac ar unda arc int da arc void win da aqvs igive saxeli rac klass
+###### ამოხსნა -> **konstruqtori klasebshi.cpp**
