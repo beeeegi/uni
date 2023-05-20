@@ -34,3 +34,8 @@ universitetistvis gamosadegi informacia da sxva mravali
 
 ## davaleba: daalaget 3, 6, 1, 2, 9, 5 masivi zrdadobis mixedvit
 > amoxsna -> ricxvebis dalagebis algoritmi.cpp
+
+## დავალება 
+> sheqmenit martkutxedis klasi velebit sigrdze da signage, daweret klasis funqcia(metodi) am martkutxedis perimetris gamosaangarishebeli, es funqcia unda eweros klasis garet; sheqmenit ori obieqti martkutxedis da gamotvalet orives perimetri.
+
+###### ამოხსნა -> **davalebai.cpp**
